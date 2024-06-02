@@ -1,0 +1,16 @@
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\bin\Debug\projetappmobile.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\bin\Debug\projetappmobile.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\bin\Debug\projetappmobile.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.LOGIN.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.HOME.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.PRODUCT_DB.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.USER_DB.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.UserControl1.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\projetappmobile\projetappmobile\obj\Debug\projetappmobile.ADDUSER.resources

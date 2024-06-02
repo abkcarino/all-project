@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"  ?>
+<!DOCTYPE Biblio SYSTEM "tp/tp.xsd" >
+<?xml-stylesheet href="biblioStyleSheet.xsl" type="text/xsl"?>
+<Biblio>
+    <Etudiant code="123345667788" nom="dahmane" prenom="cholali" age="14" >
+        <Livre id="1" titre="teyyw" datePret="17\2\2000" rendue="Oui" />
+    </Etudiant>
+    <Etudiant code="12334" nom="kara" prenom="bara" age="20" >
+        <Livre id="2" titre="tyyeuwiw" datePret="13\5\2008" rendue="Non" />
+    </Etudiant>
+    <Etudiant code="35443" nom="lotfi" prenom="lllllll" age="20" >
+        <Livre id="3" titre="alger" datePret="9\2\2004" rendue="Non" />
+    </Etudiant> 
+</Biblio>

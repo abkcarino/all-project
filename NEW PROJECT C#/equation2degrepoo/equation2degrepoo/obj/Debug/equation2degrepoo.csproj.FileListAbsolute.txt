@@ -1,0 +1,11 @@
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\bin\Debug\equation2degrepoo.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\bin\Debug\equation2degrepoo.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\bin\Debug\equation2degrepoo.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\obj\Debug\equation2degrepoo.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\obj\Debug\equation2degrepoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\obj\Debug\equation2degrepoo.Form1.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\obj\Debug\equation2degrepoo.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\obj\Debug\equation2degrepoo.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\obj\Debug\equation2degrepoo.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\obj\Debug\equation2degrepoo.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\equation2degrepoo\equation2degrepoo\obj\Debug\equation2degrepoo.pdb

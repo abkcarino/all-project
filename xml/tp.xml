@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "tp.dtd">
+
+<biblio>
+    <etudiant code="1" nom="Ainouz" prenom="Hakim" age="20">
+        <livre id="1" titre="XML" datepret="01-01-2024" rendu="oui"/>
+        <livre id="2" titre="XSL" datepret="02-01-2024" rendu="non"/>
+    </etudiant>
+
+    <etudiant code="1" nom="Laroussi" prenom="Abdou" age="21">
+        <livre id="1" titre="TP1" datepret="03-01-2024" rendu="oui"/>
+        <livre id="2" titre="TP2" datepret="04-01-2024" rendu="non"/>
+    </etudiant>
+
+    <etudiant code="1" nom="Bourmel" prenom="Walid" age="21">
+        <livre id="1" titre="HTML" datepret="05-01-2024" rendu="oui"/>
+        <livre id="2" titre="CSS" datepret="06-01-2024" rendu="non"/>
+    </etudiant>
+</biblio>

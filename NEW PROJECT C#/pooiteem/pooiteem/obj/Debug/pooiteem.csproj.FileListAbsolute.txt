@@ -1,0 +1,10 @@
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\bin\Debug\pooiteem.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\bin\Debug\pooiteem.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\bin\Debug\pooiteem.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\obj\Debug\pooiteem.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\obj\Debug\pooiteem.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\obj\Debug\pooiteem.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\obj\Debug\pooiteem.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\obj\Debug\pooiteem.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\obj\Debug\pooiteem.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\pooiteem\pooiteem\obj\Debug\pooiteem.pdb

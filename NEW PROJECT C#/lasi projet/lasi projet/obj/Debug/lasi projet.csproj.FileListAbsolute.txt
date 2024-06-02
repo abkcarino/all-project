@@ -1,0 +1,14 @@
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\bin\Debug\lasi projet.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\bin\Debug\lasi projet.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\bin\Debug\lasi projet.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi projet.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi projet.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi_projet.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi projet.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi projet.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi projet.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi projet.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi_projet.Home.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi_projet.loginform.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi_projet.signupforme.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\lasi projet\lasi projet\obj\Debug\lasi_projet.Form3.resources

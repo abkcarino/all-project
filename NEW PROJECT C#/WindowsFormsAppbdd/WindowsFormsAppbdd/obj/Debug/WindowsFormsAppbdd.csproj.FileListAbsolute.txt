@@ -1,0 +1,22 @@
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\bin\Debug\WindowsFormsAppbdd.exe.config
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\bin\Debug\WindowsFormsAppbdd.exe
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\bin\Debug\WindowsFormsAppbdd.pdb
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.Properties.Resources.resources
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.exe
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.pdb
+C:\Users\pc\OneDrive\Bureau\tp C\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.Form1.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\bin\Debug\WindowsFormsAppbdd.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\bin\Debug\WindowsFormsAppbdd.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\bin\Debug\WindowsFormsAppbdd.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.Form1.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\WindowsFormsAppbdd\WindowsFormsAppbdd\obj\Debug\WindowsFormsAppbdd.pdb

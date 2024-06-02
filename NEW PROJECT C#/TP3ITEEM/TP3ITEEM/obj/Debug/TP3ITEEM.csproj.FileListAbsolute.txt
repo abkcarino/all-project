@@ -1,0 +1,11 @@
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\bin\Debug\TP3ITEEM.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\bin\Debug\TP3ITEEM.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\bin\Debug\TP3ITEEM.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\obj\Debug\TP3ITEEM.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\obj\Debug\TP3ITEEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\obj\Debug\TP3ITEEM.Form1.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\obj\Debug\TP3ITEEM.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\obj\Debug\TP3ITEEM.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\obj\Debug\TP3ITEEM.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\obj\Debug\TP3ITEEM.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP3ITEEM\TP3ITEEM\obj\Debug\TP3ITEEM.pdb

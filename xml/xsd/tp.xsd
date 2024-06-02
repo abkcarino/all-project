@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"   ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="biblio">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="etudiant" minOccurs="1" maxOccurs="unbounded" type="TYPE_ETUD">
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+    <xs:complexType name="TYPE_ETUD">
+        <xs:sequence>
+            <xs:element name="etudiant" minOccurs="1" maxOccurs="5" type="TYPE_ETUD">
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute name="code" type="xs:string" use="required"/>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+        <xs:attribute name="prenom" type="xs:string" use="required"/>
+       <xs:attribute name="email" use="optional">
+    <xs:simpleType>
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9._%+-]+\.[a-zA-Z]{2,}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    </xs:attribute>
+        <xs:attribute name="age"  use="optional">
+            <xs:simpleType>
+                <xs:restriction base="xs:int">
+<xs:minInclusive value="16"></xs:minInclusive>
+<xs:maxInclusive value="65"></xs:maxInclusive>
+
+
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        
+    </xs:complexType>
+    <xs:complexType name="TYPE_LIVRE">
+         <xs:attribute name="id" type="xs:int" use="required"/>
+        <xs:attribute name="titre" type="xs:string" use="required"/>
+        <xs:attribute name="datePret" type="xs:date" use="required"/>
+        <xs:attribute name="rendu"  default="NON">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="OUI"></xs:enumeration>
+                    <xs:enumeration value="NON"></xs:enumeration>
+
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+
+
+
+</xs:schema>

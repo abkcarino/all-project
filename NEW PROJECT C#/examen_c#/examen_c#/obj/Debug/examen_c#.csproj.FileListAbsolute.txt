@@ -1,0 +1,11 @@
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\bin\Debug\examen_c#.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\bin\Debug\examen_c#.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\bin\Debug\examen_c#.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\obj\Debug\examen_c#.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\obj\Debug\examen_c#.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\obj\Debug\examen_c_.Form1.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\obj\Debug\examen_c_.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\obj\Debug\examen_c#.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\obj\Debug\examen_c#.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\obj\Debug\examen_c#.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\examen_c#\examen_c#\obj\Debug\examen_c#.pdb

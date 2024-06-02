@@ -1,0 +1,11 @@
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\bin\Debug\calculatrice.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\bin\Debug\calculatrice.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\bin\Debug\calculatrice.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\obj\Debug\calculatrice.Form1.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\obj\Debug\calculatrice.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\obj\Debug\calculatrice.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\calculatrice\calculatrice\obj\Debug\calculatrice.pdb

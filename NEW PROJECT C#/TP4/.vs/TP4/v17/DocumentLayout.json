@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FDE17F-9A4A-4A8E-98E4-5A9A33FB1B89}|TP4\\TP4.csproj|d:\\tp4\\tp4\\webformcategorie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FDE17F-9A4A-4A8E-98E4-5A9A33FB1B89}|TP4\\TP4.csproj|solutionrelative:tp4\\webformcategorie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FDE17F-9A4A-4A8E-98E4-5A9A33FB1B89}|TP4\\TP4.csproj|D:\\TP4\\tp4\\classdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FDE17F-9A4A-4A8E-98E4-5A9A33FB1B89}|TP4\\TP4.csproj|solutionrelative:tp4\\classdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FDE17F-9A4A-4A8E-98E4-5A9A33FB1B89}|TP4\\TP4.csproj|D:\\TP4\\tp4\\webformcategorie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A7FDE17F-9A4A-4A8E-98E4-5A9A33FB1B89}|TP4\\TP4.csproj|solutionrelative:tp4\\webformcategorie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FDE17F-9A4A-4A8E-98E4-5A9A33FB1B89}|TP4\\TP4.csproj|D:\\TP4\\tp4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7FDE17F-9A4A-4A8E-98E4-5A9A33FB1B89}|TP4\\TP4.csproj|solutionrelative:tp4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebFormCATEGORIE.aspx.cs",
+              "DocumentMoniker": "D:\\TP4\\TP4\\WebFormCATEGORIE.aspx.cs",
+              "RelativeDocumentMoniker": "TP4\\WebFormCATEGORIE.aspx.cs",
+              "ToolTip": "D:\\TP4\\TP4\\WebFormCATEGORIE.aspx.cs",
+              "RelativeToolTip": "TP4\\WebFormCATEGORIE.aspx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:02:30.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDB.cs",
+              "DocumentMoniker": "D:\\TP4\\TP4\\ClassDB.cs",
+              "RelativeDocumentMoniker": "TP4\\ClassDB.cs",
+              "ToolTip": "D:\\TP4\\TP4\\ClassDB.cs",
+              "RelativeToolTip": "TP4\\ClassDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:00:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebFormCATEGORIE.aspx",
+              "DocumentMoniker": "D:\\TP4\\TP4\\WebFormCATEGORIE.aspx",
+              "RelativeDocumentMoniker": "TP4\\WebFormCATEGORIE.aspx",
+              "ToolTip": "D:\\TP4\\TP4\\WebFormCATEGORIE.aspx",
+              "RelativeToolTip": "TP4\\WebFormCATEGORIE.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-18T05:00:46.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\TP4\\TP4\\Web.config",
+              "RelativeDocumentMoniker": "TP4\\Web.config",
+              "ToolTip": "D:\\TP4\\TP4\\Web.config",
+              "RelativeToolTip": "TP4\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T05:00:35.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\bin\Debug\TP2S2ITEEM.exe.config
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\bin\Debug\TP2S2ITEEM.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\bin\Debug\TP2S2ITEEM.pdb
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\obj\Debug\TP2S2ITEEM.csproj.AssemblyReference.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\obj\Debug\TP2S2ITEEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\obj\Debug\TP2S2ITEEM.Form1.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\obj\Debug\TP2S2ITEEM.Properties.Resources.resources
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\obj\Debug\TP2S2ITEEM.csproj.GenerateResource.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\obj\Debug\TP2S2ITEEM.csproj.CoreCompileInputs.cache
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\obj\Debug\TP2S2ITEEM.exe
+C:\Users\larou\OneDrive\Bureau\NEW PROJECT C#\TP2S2ITEEM\TP2S2ITEEM\obj\Debug\TP2S2ITEEM.pdb
